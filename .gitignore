@@ -1,0 +1,25 @@
+# compiled app
+todo-app
+my-todo-app
+*.exe
+
+# tasks
+tasks.json
+
+# env
+.env
+.env.local
+
+# temp files
+*.log
+*.tmp
+
+# IDEs stuff
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# debug
+pprof/
+.env
